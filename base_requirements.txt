@@ -81,7 +81,7 @@ Jinja2
 # Simple markup language for rendering HTML
 # https://github.com/Python-Markdown/markdown
 # mkdocs currently requires Markdown v3.3
-Markdown<3.4
+Markdown<3.8.1
 
 # File inclusion plugin for Python-Markdown
 # https://github.com/cmacmackin/markdown-include
